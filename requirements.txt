@@ -1,0 +1,6 @@
+pandas
+duckdb==1.1.3
+pyarrow
+scikit-learn
+streamlit
+matplotlib
